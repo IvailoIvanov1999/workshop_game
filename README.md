@@ -6,9 +6,9 @@ The rules are : To win make 4 of same symbol , in row or in column or diagonaly,
   
   
   
-                game link : https://replit.com/@IvailoIvanov199/workshoop
+  game link : https://replit.com/@IvailoIvanov199/workshoop
                 
-        game picture 
+game picture 
             |
             |
             |
